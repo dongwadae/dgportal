@@ -12,6 +12,10 @@ body {
     display: none;
     }
 
+.logo {
+  aspect-ratio: 50 / 47;
+}
+
 .checkbox {
   width: 60px;
   height: 30px;
